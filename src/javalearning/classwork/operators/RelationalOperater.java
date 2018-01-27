@@ -14,7 +14,7 @@ public class RelationalOperater {
     public static void main(String[] agrs) {
         int a = 15;
         int b = 20;
-        //< operator //
+        /**operator */
         System.out.println(a < b);
         // using > operator //
         System.out.println(a > b);

@@ -24,12 +24,9 @@ public class Maths {
         result = number1*number2;
         System.out.println(result);
         
-        /*
-        * multiline
-        * comments
-        */
-               
-      
+       
     }
-    
+   
+    }
+   
 }

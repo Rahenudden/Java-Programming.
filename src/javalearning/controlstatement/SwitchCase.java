@@ -11,8 +11,36 @@ package javalearning.controlstatement;
  */
 public class SwitchCase {
     public static void main(String [] args){
-        System.out.println("Hello");
-        System.out.println("Hello git");
+       /*
+switch (expression){
+            case value1:
+                statement;
+                break ;
+            case value2:
+                statement ;
+                break;
+            default:
+                statement;
+        }
+*/
+       int month = 1;
+       String monthString="";
+       switch (month){
+           case 1:
+               monthString="January";
+               break;
+           case 2:
+               monthString ="february";
+               break;
+           case 3:
+               monthString="march";
+               break;
+           default:
+               monthString="none";
+                       
+               
+              
+       }System.out.println(monthString);
     }
     
 }
