@@ -3,52 +3,55 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/WhileLoop.java</file>
-            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/controlstatement/SwitchCase.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/operators/UnaryOperator2.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/MethodDemo/Maths.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/NestedLoop.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/SetAndGet/Print.java</file>
-            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/operators/ObjectOrientedProgram.java</file>
-            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/ObjectDemo.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/AccessModifier/AceClass.java</file>
-            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/MethodOverloading.java</file>
-            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/operators/RelationalOperater.java</file>
+            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/get/Get.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/operators/RelationalOperatorsDemo.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/MethodInstanceObject.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/Constructor/PrintDemo.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/MethodExample.java</file>
-            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/operators/Variables.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/operators/IfDemo.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/JavaLearning.java</file>
-            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/Constructors/AbcCons.java</file>
-            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/Pyramid.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/PrefixPostfix.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/operators/ArithmaticOperatorDemo.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/MoreAboutIfThenElse.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/MethodDemo/Maths.java</file>
-            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/IfDemo.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/Practice/PracticeClass.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/operators/DataType.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/Constructors/EmpClass.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/AccessModifier/Print.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/BreakStatement.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/ReturnValue/MathsDemo.java</file>
-            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/MethodDemo/MethodDemo.java</file>
-            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/operators/IfElseIfDemo.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/operators/UnaryOperator.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/UserInputDemoClassWork.java</file>
-            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/operators/IfElseDemo.java</file>
+            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/get/PrintGet.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/ForLoopAlphabet.java</file>
-            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/operators/ForLoop.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/SetAndGet/SeterGeter.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/MethodDemo/MethodOverloadingTest.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/ConstrucoreExample.java</file>
-            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/operators/WhileLoop.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/operators/UserInputDemo.java</file>
-            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/MethodDemo/MethodDemp.java</file>
-            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/MethodDemo/MethodOverloading.java</file>
             <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/Constructor/ConstructorDemo.java</file>
+            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/WhileLoop.java</file>
+            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/controlstatement/SwitchCase.java</file>
+            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/operators/ObjectOrientedProgram.java</file>
+            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/ObjectDemo.java</file>
+            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/MethodOverloading.java</file>
+            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/operators/RelationalOperater.java</file>
+            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/operators/Variables.java</file>
+            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/Constructors/AbcCons.java</file>
+            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/Pyramid.java</file>
+            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/IfDemo.java</file>
+            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/MethodDemo/MethodDemo.java</file>
+            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/operators/IfElseIfDemo.java</file>
+            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/operators/IfElseDemo.java</file>
+            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/operators/ForLoop.java</file>
+            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/classwork/operators/WhileLoop.java</file>
+            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/javalearning/homework/MethodDemo/MethodDemp.java</file>
+            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/GetSet.java</file>
+            <file>file:/C:/Users/rahen/Documents/NetBeansProjects/JavaLearning/src/MethodDemo/MethodOverloading.java</file>
         </group>
     </open-files>
 </project-private>
