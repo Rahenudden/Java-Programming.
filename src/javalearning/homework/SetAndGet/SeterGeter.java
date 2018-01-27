@@ -38,7 +38,7 @@ public class SeterGeter {
      setergeter.students("Rahen");
      setergeter.teachers("100");
      setergeter.print();
-     
+     System.out.println(".................");
      
     }
     
