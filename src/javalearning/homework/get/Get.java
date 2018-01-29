@@ -8,7 +8,7 @@ public class Get {
     private String Emp_name;
     private double phone_number;
 
-    public Get() 
+    public Get() // default constructor 
     {
     }
 
@@ -28,7 +28,7 @@ public class Get {
         this.Emp_name = Emp_name;
     }
     
-    public  int get1  (int Emp_id) // formula of Get = public + Data type of variable + mehod name. (No parameter)
+    public  int get1  (int Emp_id) // formula of Get = public + Data type will be same as  variable type + mehod name. (No parameter)
     {
         return Emp_id ;
     }
